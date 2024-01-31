@@ -1,0 +1,10 @@
+Create folder
+git init
+create file
+git status
+git add <filename>
+git status
+git commit -m "your message"
+git branch -M main
+git remote add origin <link to your repo>
+git push -u origin main
